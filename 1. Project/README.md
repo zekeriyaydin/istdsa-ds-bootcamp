@@ -5,6 +5,7 @@ Bu proje, WomenTechWomenYes (WTWY) derneğinin sokak ekiplerinin daha verimli ye
 Amaç, gala etkinliği için en uygun lokasyon ve zamanları belirleyerek daha fazla kadına erişmek ve katılımı artırmaktır.
 
 🔍 Proje Amacı
+
 NY metro istasyonlarında ridership (yolcu sayısı) verileri analiz edilerek:
 
 En yoğun istasyonlar
