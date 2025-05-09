@@ -1,5 +1,7 @@
 📊 WomenTechWomenYes (WTWY) - Metro Verisi ile EDA Projesi
+
 Bu proje, WomenTechWomenYes (WTWY) derneğinin sokak ekiplerinin daha verimli yerleştirilmesini sağlamak amacıyla, New York City metro verileri üzerinde Keşifsel Veri Analizi (EDA) gerçekleştirmektedir.
+
 Amaç, gala etkinliği için en uygun lokasyon ve zamanları belirleyerek daha fazla kadına erişmek ve katılımı artırmaktır.
 
 🔍 Proje Amacı
@@ -13,6 +15,7 @@ Günün en yoğun saatleri
 gibi içgörüler çıkarıldı.
 
 🗃️ Kullanılan Veri Seti
+
 MTA Subway Hourly Ridership: 2020-2024
 
 https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s/about_data
@@ -28,7 +31,9 @@ pandas, numpy
 
 matplotlib
 
+
 📈 Yapılan Analizler
+
 En yoğun 5 istasyonun saatlik yolcu profili
 
 Borough bazlı toplam ridership dağılımı
@@ -38,6 +43,7 @@ Günün en yoğun saatlerinin belirlenmesi
 Yoğunluklara göre önerilen saat ve lokasyonlar
 
 📷 Örnek Görselleştirmeler
+
 En yoğun 5 istasyonun bar grafiği
 
 Borough'lara göre toplam ridership
