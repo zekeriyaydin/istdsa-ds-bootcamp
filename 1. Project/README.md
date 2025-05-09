@@ -26,6 +26,7 @@ https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c
 Saatlik ve istasyon bazlı veriler içerir.
 
 🛠️ Kullanılan Araçlar & Kütüphaneler
+
 Python
 
 pandas, numpy
@@ -50,6 +51,7 @@ En yoğun 5 istasyonun bar grafiği
 Borough'lara göre toplam ridership
 
 Katkıda Bulunanlar
+
 Zekeriya Aydın
 
 Hasan Berk Demir
